@@ -6,7 +6,7 @@ import Body from "./components/Body";
 
 const Appbody = (()=>{
     return(
-    <div className="body">
+    <div className="body-y">
         <Header/>
         <Body/>
     </div>
