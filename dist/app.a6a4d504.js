@@ -30582,7 +30582,7 @@ var _Body = _interopRequireDefault(require("./components/Body"));
 function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
 var Appbody = function Appbody() {
   return /*#__PURE__*/_react.default.createElement("div", {
-    className: "body"
+    className: "bod-y"
   }, /*#__PURE__*/_react.default.createElement(_Header.default, null), /*#__PURE__*/_react.default.createElement(_Body.default, null));
 };
 var root = _client.default.createRoot(document.getElementById("root"));
